@@ -1,0 +1,44 @@
+{
+    "scoringRules": [
+        {
+            "combination": "Escalera (1-2-3-4-5-6)",
+            "points": "7 Puntos"
+        },
+        {
+            "combination": "Sextilla (seis iguales)",
+            "points": "6 Puntos"
+        },
+        {
+            "combination": "Doble Tercia (dos tercias)",
+            "points": "5 Puntos"
+        },
+        {
+            "combination": "Quintilla (cinco iguales)",
+            "points": "5 Puntos"
+        },
+        {
+            "combination": "Pokar (cuatro iguales)",
+            "points": "4 Puntos"
+        },
+        {
+            "combination": "Full (una tercia y un par)",
+            "points": "3 Puntos"
+        },
+        {
+            "combination": "Tres Pares",
+            "points": "3 Puntos"
+        },
+        {
+            "combination": "Tercia (tres iguales)",
+            "points": "2 Puntos"
+        },
+        {
+            "combination": "Dos Pares",
+            "points": "2 Puntos"
+        },
+        {
+            "combination": "Par (dos iguales)",
+            "points": "1 Punto"
+        }
+    ]
+}
